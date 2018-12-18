@@ -2,7 +2,7 @@
   <div>
     <h1>Events Listing</h1>
     <EventCard/>
-    <router-link :to="{ name: 'event-show', params: { id: '2' } }">Show Event</router-link>
+    <BaseIcon/>
   </div>
 </template>
 
