@@ -1,5 +1,9 @@
 <template>
-  <div>Icon</div>
+  <div class="icon-wrapper">
+    <svg class="icon" width="" height="">
+      <use/>
+    </svg>
+  </div>
 </template>
 
 <script>
